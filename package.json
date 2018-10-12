@@ -1,0 +1,11 @@
+{
+  "name": "os-icon-img",
+  "version": "1.0.0",
+  "description": "OS Icon Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TakHyun",
+  "license": "ISC"
+}
